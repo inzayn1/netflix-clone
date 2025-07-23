@@ -1,6 +1,7 @@
 # Nefflix
 
 Welcome to **Nefflix**, my personal project that has undergone a complete transformation. What started as a fairly simple and outdated project has now evolved into a modern, feature-rich application with cutting-edge technologies. While it might seem straightforward on the surface, it incorporates some fascinating and unconventional features that make it truly unique.
+https://github.com/user-attachments/assets/ddd428ed-0af0-4c89-994d-05141007e708
 
 ## 🚀 Key Features
 
